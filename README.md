@@ -10,7 +10,7 @@
 ## 3. 如何删除仓库
 
 点开仓库 点击右上角的Settings  点击下方的Delete this repository 
-## 4Bash是什么操作系统的命令
+## 4. Bash是什么操作系统的命令
 
 Linux
 ## 5. Pwd是什么命令
